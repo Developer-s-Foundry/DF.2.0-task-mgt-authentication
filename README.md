@@ -2,7 +2,7 @@
 
 ---
 
-# Developer Foundry 2.0 – Team A AUthentication & Authorization API
+# Developer Foundry 2.0 – Team A Authentication & Authorization API
 
 ## Project Overview
 
